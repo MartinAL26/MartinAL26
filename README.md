@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on learning VS and github
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with improving skills in coding.
+- 👯 I’m looking to collaborate on group projects
+- 🤔 I’m looking for help with coding and group projects
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
